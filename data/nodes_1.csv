@@ -1,4 +1,4 @@
-Id,Label,modularity_class,indegree,outdegree,Degree,weighted indegree,weighted outdegree,Weighted Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,clustering
+id,label,modularity_class,indegree,outdegree,degree,weighted indegree,weighted outdegree,weighted degree,eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,clustering
 0,,11,577,256,833,577,256,833,7,0.335777,0.362346,15491745.313262,0.014676
 1,,11,4,11,15,4,11,15,8,0.252292,0.262687,52127.178917,0.190909
 379,,11,10,5,15,10,5,15,8,0.25968,0.271019,48394.650165,0.166667
